@@ -1,3 +1,5 @@
+/// <reference types="cypress"/>
+
 describe('Category Filters', () => {
   it('Should validate that all checkboxes are checked by default', () => {
     cy.visit('http://localhost:3000/');

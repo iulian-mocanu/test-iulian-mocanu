@@ -1,3 +1,5 @@
+/// <reference types="cypress"/>
+
 describe('Countdown Timer', () => {
   it('Should validate that timer is ticking down', () => {
     // Handle this deterministically through mocking race jump times
