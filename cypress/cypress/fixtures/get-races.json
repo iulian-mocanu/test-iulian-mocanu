@@ -1,0 +1,488 @@
+{
+    "category_race_map": {
+        "161d9be2-e909-4326-8c2c-35ed71fb460b": {
+            "race_ids": [
+                "28712b94-428a-4ef9-ae0f-6744d9791ea5",
+                "0160e758-0317-4a2b-a81b-bc698e2da598",
+                "b7e2b670-bd20-44af-944d-3450cb627503",
+                "c43af308-852f-41dd-91e9-2fe73b3020d8",
+                "168635ba-5f61-4785-b89d-a20571768639"
+            ]
+        },
+        "4a2788f8-e825-4d36-9894-efd4baf1cfae": {
+            "race_ids": [
+                "64416209-3a74-4029-97e3-7d23b117a989",
+                "23263667-d2d0-4b59-9c37-95bae04dfbfa",
+                "41212049-fb2a-4abf-b481-76723dba811b",
+                "8d27b4b1-e0f3-4b9f-b3ed-ef320677207c",
+                "29d95cb5-cb0b-468d-b345-f57f5800894f"
+            ]
+        },
+        "9daef0d7-bf3c-4f50-921d-8e818c60fe61": {
+            "race_ids": [
+                "ee97ec7e-584c-4961-90c5-93925d84faa6",
+                "f0498aa4-1342-42c9-90b1-74a759cad851",
+                "4f87ef35-06ca-4008-bbb8-fa837389f23b",
+                "e8d726a0-da97-45aa-8b78-33aa53039298",
+                "20caa8d4-3047-45f7-9f36-0bf316625ee4"
+            ]
+        }
+    },
+    "race_summaries": {
+        "0160e758-0317-4a2b-a81b-bc698e2da598": {
+            "race_id": "0160e758-0317-4a2b-a81b-bc698e2da598",
+            "race_name": "Race 9 - 1609M",
+            "race_number": 9,
+            "meeting_id": "94b02a57-6dd9-4c3f-8643-fe98fa2cfea5",
+            "meeting_name": "Northfield Park",
+            "category_id": "161d9be2-e909-4326-8c2c-35ed71fb460b",
+            "advertised_start": "2023-07-27T01:27:00Z",
+            "race_form": {
+                "distance": 1609,
+                "distance_type": {
+                    "name": "Metres",
+                    "short_name": "m"
+                },
+                "track_condition": {
+                    "name": "Slow",
+                    "short_name": "slow"
+                },
+                "weather": {
+                    "name": "SHWRY"
+                },
+                "race_comment": "HEARTOFTHESEA (7) produced a good effort at her latest appearance to get home by 16 metres over this course and distance on July 19. Interesting to see what unfolds from this wide draw. Leading hope in a similar race. DAISY'S STAR (8) finished fifth last start, beaten 21 metres at this track over 1609m. Talented and has plenty of upside. Expect her to be prominent. SEASIDE STORY (1) should be at her peak for this. Finished sixth over 1609m at this track at the latest appearance a week ago. Sure to give the top fancies plenty to think about. JOHN'S SHADOW (3) is in the mix following a fourth at her most recent appearance over 1609m at this track.",
+                "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Northfield Park\",\"state\":\"OH\",\"country\":\"USA\",\"number\":9,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}"
+            },
+            "venue_id": "562f0f79-ecf3-4c04-805c-4d074ab7965e",
+            "venue_name": "Northfield Park",
+            "venue_state": "OH",
+            "venue_country": "USA"
+        },
+        "168635ba-5f61-4785-b89d-a20571768639": {
+            "race_id": "168635ba-5f61-4785-b89d-a20571768639",
+            "race_name": "Race 11 - 1609M",
+            "race_number": 11,
+            "meeting_id": "94b02a57-6dd9-4c3f-8643-fe98fa2cfea5",
+            "meeting_name": "Northfield Park",
+            "category_id": "161d9be2-e909-4326-8c2c-35ed71fb460b",
+            "advertised_start": "2023-07-27T01:59:00Z",
+            "race_form": {
+                "distance": 1609,
+                "distance_type": {
+                    "name": "Metres",
+                    "short_name": "m"
+                },
+                "track_condition": {
+                    "name": "Slow",
+                    "short_name": "slow"
+                },
+                "weather": {
+                    "name": "SHWRY"
+                },
+                "race_comment": "SEASIDE DIVA (4) was without a win before displayed pleasing improvement last start to score by 9 metres over 1609m at this track a week ago. Tackles a similar assignment and she can salute once again. ROSE RUN ZOEY (6) was in the money on debut two runs ago then found the frame again last time over 1609m at this track, finishing 9 metres from the winner in second. Good enough to take out a race like this. GENETIC EDGE (1) is in line for another win at her third career run after scoring over 1609m at this track a week-and-a-half ago. Stick with her. FEARLESS GINGER (2) is heading the right way, improving last time out to finish second at this track over 1609m.",
+                "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Northfield Park\",\"state\":\"OH\",\"country\":\"USA\",\"number\":11,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}"
+            },
+            "venue_id": "562f0f79-ecf3-4c04-805c-4d074ab7965e",
+            "venue_name": "Northfield Park",
+            "venue_state": "OH",
+            "venue_country": "USA"
+        },
+        "20caa8d4-3047-45f7-9f36-0bf316625ee4": {
+            "race_id": "20caa8d4-3047-45f7-9f36-0bf316625ee4",
+            "race_name": "Richmond Valley Tyres 0-2 Win",
+            "race_number": 2,
+            "meeting_id": "a32f9b4d-ea15-411c-85cb-bbdab3c59d09",
+            "meeting_name": "Casino",
+            "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+            "advertised_start": "2023-07-27T01:50:00Z",
+            "race_form": {
+                "distance": 484,
+                "distance_type": {
+                    "name": "Metres",
+                    "short_name": "m"
+                },
+                "track_condition": {
+                    "name": "Good",
+                    "short_name": "good"
+                },
+                "weather": {
+                    "name": "FINE"
+                },
+                "race_comment": "CLANCY'S TAVERN (7) showed little early speed at her last couple, the latest finishing fourth (23.90) in a Grade 5 at this track. Has ability and can bounce back. AEROPLANE ROSIE (4) produced a moderate run last time when fifth at this track over 411m behind Velocity Sasha (24.22). Comes through a solid form race last start. Should be in this for a long way. ROLLS RIPPLE (2) is better than last start when eighth (26.53) in a Mix at Grafton over 450m. The form out of his last race has been franked. Has ability and is one of the better chances. KINGSBRAE NOEL (6) cannot be written off despite a miss here at his latest outing.",
+                "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Casino\",\"state\":\"NSW\",\"country\":\"AUS\",\"number\":2,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}"
+            },
+            "venue_id": "74c1fa80-012f-4da7-b9ec-0d84fe90926e",
+            "venue_name": "Casino",
+            "venue_state": "NSW",
+            "venue_country": "AUS",
+            "video": {
+                "channel": {
+                    "channel_id": "bd93ca0c-63fc-4bf3-b5b1-efcd208546dc"
+                }
+            }
+        },
+        "23263667-d2d0-4b59-9c37-95bae04dfbfa": {
+            "race_id": "23263667-d2d0-4b59-9c37-95bae04dfbfa",
+            "race_name": "Race 3 - Claiming",
+            "race_number": 3,
+            "meeting_id": "92bb9ca0-83f8-4f94-8d61-d5ebae42b25e",
+            "meeting_name": "Assiniboia Downs",
+            "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+            "advertised_start": "2023-07-27T01:25:00Z",
+            "race_form": {
+                "distance": 1207,
+                "distance_type": {
+                    "name": "Metres",
+                    "short_name": "m"
+                },
+                "track_condition": {
+                    "name": "Good",
+                    "short_name": "good"
+                },
+                "weather": {
+                    "name": "OCAST"
+                },
+                "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Assiniboia Downs\",\"state\":\"MB\",\"country\":\"CA\",\"number\":3,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}"
+            },
+            "venue_id": "1b16a7b8-0633-41a7-bbc0-523722ab3881",
+            "venue_name": "Assiniboia Downs",
+            "venue_state": "MB",
+            "venue_country": "CA",
+            "video": {
+                "channel": {
+                    "channel_id": "2c184b7b-69fd-4ca8-b342-11021a010d69"
+                }
+            }
+        },
+        "28712b94-428a-4ef9-ae0f-6744d9791ea5": {
+            "race_id": "28712b94-428a-4ef9-ae0f-6744d9791ea5",
+            "race_name": "Race 9 - 1609M",
+            "race_number": 9,
+            "meeting_id": "157a6366-4664-4291-9404-14b4c5c63a9d",
+            "meeting_name": "Hoosier Park",
+            "category_id": "161d9be2-e909-4326-8c2c-35ed71fb460b",
+            "advertised_start": "2023-07-27T01:26:00Z",
+            "race_form": {
+                "distance": 1609,
+                "distance_type": {
+                    "name": "Metres",
+                    "short_name": "m"
+                },
+                "track_condition": {
+                    "name": "Fast",
+                    "short_name": "fast"
+                },
+                "weather": {
+                    "name": "Fine"
+                },
+                "race_comment": "TOPVILLE SWIFT DAN (3) finished second last start over 1609m at this track, beaten 4.5 metres, after also filling a minor placing at the previous appearance over 1609m at this track. No excuses from this advantageous draw. Perfectly placed and is sure to prove tough to beat. ASCENT (5) finished fifth last start, beaten 14 metres at this track over 1609m. Talented and has plenty of upside. Expecting a very good run. ATTA GIRL DANI (7) scored last start over 1609m at this track. Generally runs very well at this circuit so can play a big role again. KID TYLER (4) is in the mix following a sixth at his most recent appearance over 1609m at this track.",
+                "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Hoosier Park\",\"state\":\"IN\",\"country\":\"USA\",\"number\":9,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}"
+            },
+            "venue_id": "4f7d90ce-9d88-4bdd-9b78-3f0199b1afcd",
+            "venue_name": "Hoosier Park",
+            "venue_state": "IN",
+            "venue_country": "USA"
+        },
+        "29d95cb5-cb0b-468d-b345-f57f5800894f": {
+            "race_id": "29d95cb5-cb0b-468d-b345-f57f5800894f",
+            "race_name": "Nzb Insurance Pearl (Bm65)",
+            "race_number": 2,
+            "meeting_id": "72146353-88f6-4f28-a372-f7928e1549f6",
+            "meeting_name": "Awapuni Synthetic",
+            "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+            "advertised_start": "2023-07-27T01:37:00Z",
+            "race_form": {
+                "distance": 1400,
+                "distance_type": {
+                    "name": "Metres",
+                    "short_name": "m"
+                },
+                "track_condition": {
+                    "name": "Synthetic",
+                    "short_name": "synthetic"
+                },
+                "weather": {
+                    "name": "Overcast"
+                },
+                "race_comment": "REDSHEIS (4) is course proven. Well drawn today and can win this. Bonus eligible. GUM BASHER (1) has come up well this time in. A narrow winner here second up. Quinella and trifecta must. GURTLYN (6) drawn the ace gate. Winning rider atop. Must include everywhere. GRACIE LEE (3) has been course placed. Bonus eligible. Not out of this for the trifecta and first four after a 1kg claim. RUBY SEEKER (2) is a class riser. Won too easily here last start to omit. Bonus eligible.",
+                "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Awapuni Synthetic\",\"state\":\"NZ\",\"country\":\"NZ\",\"number\":2,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}"
+            },
+            "venue_id": "f659dc2e-00e9-4640-88ea-00499f19e03f",
+            "venue_name": "Awapuni Synthetic",
+            "venue_state": "NZ",
+            "venue_country": "NZ",
+            "video": {
+                "channel": {
+                    "channel_id": "bd93ca0c-63fc-4bf3-b5b1-efcd208546dc"
+                }
+            }
+        },
+        "41212049-fb2a-4abf-b481-76723dba811b": {
+            "race_id": "41212049-fb2a-4abf-b481-76723dba811b",
+            "race_name": "Race 7 - Allowance",
+            "race_number": 7,
+            "meeting_id": "e48d4193-2f73-42d7-ad8f-3db5c6fabb3b",
+            "meeting_name": "Mountaineer Park",
+            "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+            "advertised_start": "2023-07-27T01:30:00Z",
+            "race_form": {
+                "distance": 1207,
+                "distance_type": {
+                    "name": "Metres",
+                    "short_name": "m"
+                },
+                "track_condition": {
+                    "name": "Good",
+                    "short_name": "good"
+                },
+                "race_comment": "WORTH A PEEK (4) has had two runs since a break, the latest a fourth over 1106m at this track (Dirt), beaten 6 lengths. Has scope for improvement so she looks the testing material. TEAM GOLD DIGGER (1) improved sharply on her fourth two starts back at Thistledown (Dirt) with a win over 1207m at Thistledown (Dirt) nine days ago, getting home by 1.5 lengths after being in contention on the turn. Going up a level this time but she can go back-to-back. VALERIE FIRST (6) settled well back last start and never threatened when 15 lengths from the winner in sixth over 1673m at Parx (Dirt). Best figures measure up nicely. Sure to run well. MIZZEN (5) registered a strong win two runs ago then turned in a nice run last time out when second over 1207m at this track, beaten a nose. Suitably placed so anticipating a better run this time.",
+                "additional_data": "{\"revealed_race_info\":{\"track_name\":\"\",\"state\":\"\",\"country\":\"\",\"number\":0,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}"
+            },
+            "venue_id": "33612182-29fc-4ddd-91e6-6617d7289d2b",
+            "venue_name": "Mountaineer Park",
+            "venue_state": "WV",
+            "venue_country": "USA"
+        },
+        "4f87ef35-06ca-4008-bbb8-fa837389f23b": {
+            "race_id": "4f87ef35-06ca-4008-bbb8-fa837389f23b",
+            "race_name": "Shepparton News (275+ Rank)",
+            "race_number": 2,
+            "meeting_id": "a3b71b01-d077-4ea2-9f47-8156a99fcb43",
+            "meeting_name": "Shepparton",
+            "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+            "advertised_start": "2023-07-27T01:34:00Z",
+            "race_form": {
+                "distance": 450,
+                "distance_type": {
+                    "name": "Metres",
+                    "short_name": "m"
+                },
+                "track_condition": {
+                    "name": "Good",
+                    "short_name": "good"
+                },
+                "weather": {
+                    "name": "Fine"
+                },
+                "race_comment": "YUM CHA JACK (8) steps out at this track for the first time after an average run at the latest appearance, finishing seventh at Warragul over 460m behind Warcraft (26.35). The form out of last race has been strong. Has claims if he runs up to expectations. ARGYLE KINLOCH (1) jumped from the squeeze on debut and finished well back at Healesville over 350m (20.06). Drops down the inside box this time. Can hit the frame this time. WHITE SHIRAZ (2) showed little early speed at her last couple, the latest finishing fourth (26.25) in a Maiden at this track. Some good form is emerging from her last run. Can figure in the finish. HEY SNICKERS (7) showed some ability on debut here and is given another chance. Can feature with the right run.",
+                "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Shepparton\",\"state\":\"VIC\",\"country\":\"AUS\",\"number\":2,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}"
+            },
+            "venue_id": "ff79d849-5d27-4841-83f8-f25629e71420",
+            "venue_name": "Shepparton",
+            "venue_state": "VIC",
+            "venue_country": "AUS"
+        },
+        "64416209-3a74-4029-97e3-7d23b117a989": {
+            "race_id": "64416209-3a74-4029-97e3-7d23b117a989",
+            "race_name": "Race 4 - Claiming",
+            "race_number": 4,
+            "meeting_id": "c503017c-a732-49f6-95d2-7b9c10a9d572",
+            "meeting_name": "Canterbury Park",
+            "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+            "advertised_start": "2023-07-27T01:24:00Z",
+            "race_form": {
+                "distance": 1006,
+                "distance_type": {
+                    "name": "Metres",
+                    "short_name": "m"
+                },
+                "track_condition": {
+                    "name": "Good",
+                    "short_name": "good"
+                },
+                "race_comment": "WHERE'S FRANKIE (5) returns from a layoff of four-and-a-half months. Scored over 1106m at Del Mar at the start of last prep. Has ability and should be right in the finish. CASINO QUEEN (3) was out of the money two runs back then again missed the frame last start over 1006m at this track, beaten 4 lengths into seventh after being in contention on the turn. Finds a nice race and can take this out. CURIOUS INJI (1) finished third at this track two runs back but didn't measure up last time over 1609m at this track (Turf), finishing 8 lengths back in seventh. Likely improver with strong prospects. LADY CLARE (2) has not appeared since she finished second over 1673m at Arapahoe Park (Dirt) on October 2. Can make her presence felt.",
+                "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Canterbury Park\",\"state\":\"MN\",\"country\":\"USA\",\"number\":4,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}"
+            },
+            "venue_id": "3953e1f0-bc31-47a7-b006-854f6e05aa11",
+            "venue_name": "Canterbury Park",
+            "venue_state": "MN",
+            "venue_country": "USA"
+        },
+        "8d27b4b1-e0f3-4b9f-b3ed-ef320677207c": {
+            "race_id": "8d27b4b1-e0f3-4b9f-b3ed-ef320677207c",
+            "race_name": "Race 6 - Maiden Claiming",
+            "race_number": 6,
+            "meeting_id": "399b564f-727f-4912-ac2d-4630fce38389",
+            "meeting_name": "Retama Park",
+            "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+            "advertised_start": "2023-07-27T01:30:00Z",
+            "race_form": {
+                "distance": 320,
+                "distance_type": {
+                    "name": "Metres",
+                    "short_name": "m"
+                },
+                "track_condition": {
+                    "name": "Good",
+                    "short_name": "good"
+                },
+                "race_comment": "PF GLIMPSE OFF (6) was thereabouts last time out when second at Gillespie County Fairground (Dirt) over 229m, beaten 0.8 lengths. Should be at his peak now. Sure to go well. TTT MR FIRSTEIN (4) finished out of the money on debut two starts back then he was never in contention and was beaten 3 lengths when seventh in a 274m contest at Delta Downs five-and-a-half weeks ago. Finds a nice race and can find winning form. CE GLORYBE (8) finished out of the money on debut two starts back then he was always well out of his ground and was beaten 3.5 lengths when seventh over 229m at this track four weeks ago. Perfectly placed and is sure to open his account. FINEST ISSUE (7) is back after a break of ten weeks. At the last run before the layoff she finished fourth over 274m at Sam Houston Park (Dirt). Rates highly on best form and should be in the mix.",
+                "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Retama Park\",\"state\":\"TX\",\"country\":\"USA\",\"number\":6,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}"
+            },
+            "venue_id": "aacc5d64-7b89-4b6c-87d0-56dfbee65043",
+            "venue_name": "Retama Park",
+            "venue_state": "TX",
+            "venue_country": "USA"
+        },
+        "b7e2b670-bd20-44af-944d-3450cb627503": {
+            "race_id": "b7e2b670-bd20-44af-944d-3450cb627503",
+            "race_name": "Race 10 - 1609M",
+            "race_number": 10,
+            "meeting_id": "94b02a57-6dd9-4c3f-8643-fe98fa2cfea5",
+            "meeting_name": "Northfield Park",
+            "category_id": "161d9be2-e909-4326-8c2c-35ed71fb460b",
+            "advertised_start": "2023-07-27T01:43:00Z",
+            "race_form": {
+                "distance": 1609,
+                "distance_type": {
+                    "name": "Metres",
+                    "short_name": "m"
+                },
+                "track_condition": {
+                    "name": "Slow",
+                    "short_name": "slow"
+                },
+                "weather": {
+                    "name": "SHWRY"
+                },
+                "race_comment": "JOHANN (10) won at this track two runs ago before finishing fourth at his latest appearance over 1609m at this track, beaten 15 metres. Meets a similar line up and he is capable of a much better performance. WADDUPGEE (5) has been a model of consistency of late and deserved her success last time out, scoring by 24 metres over 1609m at Scioto Downs. Beautifully placed and is sure to prove tough to beat again. STUMPY (8) didn't do a bad job when fifth over 1609m at Scioto Downs last time out. BABY YODA (6) cannot be left out after solid recent performances, the latest a sound fourth at this track over 1609m.",
+                "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Northfield Park\",\"state\":\"OH\",\"country\":\"USA\",\"number\":10,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}"
+            },
+            "venue_id": "562f0f79-ecf3-4c04-805c-4d074ab7965e",
+            "venue_name": "Northfield Park",
+            "venue_state": "OH",
+            "venue_country": "USA"
+        },
+        "c43af308-852f-41dd-91e9-2fe73b3020d8": {
+            "race_id": "c43af308-852f-41dd-91e9-2fe73b3020d8",
+            "race_name": "Race 10 - 1609M",
+            "race_number": 10,
+            "meeting_id": "157a6366-4664-4291-9404-14b4c5c63a9d",
+            "meeting_name": "Hoosier Park",
+            "category_id": "161d9be2-e909-4326-8c2c-35ed71fb460b",
+            "advertised_start": "2023-07-27T01:43:00Z",
+            "race_form": {
+                "distance": 1609,
+                "distance_type": {
+                    "name": "Metres",
+                    "short_name": "m"
+                },
+                "track_condition": {
+                    "name": "Fast",
+                    "short_name": "fast"
+                },
+                "weather": {
+                    "name": "Fine"
+                },
+                "race_comment": "TEELATINI (5) returns to the scene of her last run when victorious over this trip, getting home by 4.5 metres. Leading hope in this comparable race. TOPVILLE OHSOLUCKY (1) registered another strong performance last time when she battled on bravely to finish second over 1609m at this track, adding to a good third on debut at this track the run prior. Sure to enjoy an economical run from this draw. Primary contender based on those two efforts. MCKIRA (2) must be considered after she finished third over 1609m at this track two weeks ago. FOREVER FARAH (6) was thereabouts last time out at the second run back from a spell over 1609m at this track. Open to plenty of improvement.",
+                "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Hoosier Park\",\"state\":\"IN\",\"country\":\"USA\",\"number\":10,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}"
+            },
+            "venue_id": "4f7d90ce-9d88-4bdd-9b78-3f0199b1afcd",
+            "venue_name": "Hoosier Park",
+            "venue_state": "IN",
+            "venue_country": "USA"
+        },
+        "e8d726a0-da97-45aa-8b78-33aa53039298": {
+            "race_id": "e8d726a0-da97-45aa-8b78-33aa53039298",
+            "race_name": "Garrards Horse & Hound Pbd Sprint",
+            "race_number": 7,
+            "meeting_id": "8ecfb719-9539-4471-9df9-12748b229a21",
+            "meeting_name": "Manukau",
+            "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+            "advertised_start": "2023-07-27T01:45:00Z",
+            "race_form": {
+                "distance": 318,
+                "distance_type": {
+                    "name": "Metres",
+                    "short_name": "m"
+                },
+                "track_condition": {
+                    "name": "Good",
+                    "short_name": "good"
+                },
+                "weather": {
+                    "name": "SHWRY"
+                },
+                "race_comment": "PADDY FIELD (5) is progressing well with another good run last time, placing (18.90) last time out at this track. Has never missed the frame here at the trip from nine starts. Has clocked a quick 18.57 best time here at this trip. Expected to feature in the finish again. THRILLING ZIGGY (3) put in a much better performance last start when in the placings at this track behind Go Clifford (18.90) in a Class 3. Has the early speed to give a sight. Goes well out of this box with a win and two minor placings. Expected to be in this for a long way. PORTLAND GRACE (7) was sent out big odds last time but scored an upset win in a Class 3 at this track (18.75). Solid record here winning five races. Has clocked a swift 18.53 best time here at this trip. Sure to be thereabouts. JOE BANANAS (2) is in the mix despite finishing out of the placings here last start.",
+                "additional_data": "{\"revealed_race_info\":{\"track_name\":\"\",\"state\":\"\",\"country\":\"\",\"number\":0,\"race_name\":\"\",\"time\":\"1970-01-01T00:00:00Z\"}}"
+            },
+            "venue_id": "07c0f0d2-6d9c-49c5-aca7-b87fe11c2399",
+            "venue_name": "Manukau",
+            "venue_state": "NZ",
+            "venue_country": "NZ",
+            "video": {
+                "channel": {
+                    "channel_id": "bd93ca0c-63fc-4bf3-b5b1-efcd208546dc"
+                }
+            }
+        },
+        "ee97ec7e-584c-4961-90c5-93925d84faa6": {
+            "race_id": "ee97ec7e-584c-4961-90c5-93925d84faa6",
+            "race_name": "Coprice Working Dog Beef Pbd Sprint",
+            "race_number": 6,
+            "meeting_id": "8ecfb719-9539-4471-9df9-12748b229a21",
+            "meeting_name": "Manukau",
+            "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+            "advertised_start": "2023-07-27T01:27:00Z",
+            "race_form": {
+                "distance": 318,
+                "distance_type": {
+                    "name": "Metres",
+                    "short_name": "m"
+                },
+                "track_condition": {
+                    "name": "Good",
+                    "short_name": "good"
+                },
+                "weather": {
+                    "name": "SHWRY"
+                },
+                "race_comment": "DARK SMOKE (8) is a capable type and proved too classy last time to win by 2.5 lengths at this track in a handy 18.84 beating Allegro Bryan. Has a win and two minor placings from three starts from this draw. Hard to go past. BIG TIME CHERRY (6) was strongly supported last start when a short priced favourite and duly saluted winning by 1.5 lengths at this track in a handy 19.17. Awkwardly drawn but likes the trip. Yet to win out of this box but has been in the placings 17 times from 23 starts. Leading chance again. GO AMBER (5) turned in a modest effort most recently when seventh at Wanganui over 305m behind Waiting Game (18.47) in a Class 1. Won at her only start from this draw. Leading chance. BRIGHT BARRY (1) with some luck can improve on an unplaced run here last time and looks to get every chance here. Keep safe.",
+                "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Manukau\",\"state\":\"NZ\",\"country\":\"NZ\",\"number\":6,\"race_name\":\"Coprice Working Dog Beef Pbd Sprint\",\"time\":\"2023-07-27T01:27:00Z\"}}"
+            },
+            "venue_id": "07c0f0d2-6d9c-49c5-aca7-b87fe11c2399",
+            "venue_name": "Manukau",
+            "venue_state": "NZ",
+            "venue_country": "NZ",
+            "video": {
+                "channel": {
+                    "channel_id": "bd93ca0c-63fc-4bf3-b5b1-efcd208546dc"
+                }
+            }
+        },
+        "f0498aa4-1342-42c9-90b1-74a759cad851": {
+            "race_id": "f0498aa4-1342-42c9-90b1-74a759cad851",
+            "race_name": "Cecil Hotel Casino Maiden",
+            "race_number": 1,
+            "meeting_id": "a32f9b4d-ea15-411c-85cb-bbdab3c59d09",
+            "meeting_name": "Casino",
+            "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+            "advertised_start": "2023-07-27T01:30:00Z",
+            "race_form": {
+                "distance": 300,
+                "distance_type": {
+                    "name": "Metres",
+                    "short_name": "m"
+                },
+                "track_condition": {
+                    "name": "Good",
+                    "short_name": "good"
+                },
+                "weather": {
+                    "name": "FINE"
+                },
+                "race_comment": "NITRO SLIM (8) returned a better run last time, finishing in the money (24.09) at this track behind Velocity Sasha in a Maiden. Has the early speed to land on the pace and can stick on. Form from his last run is proving to be solid. Top prospect. PRIMERO (4) has mixed form recently, finishing sixth (24.42) in a Maiden at this track latest but did run well two back when in the frame. Can improve sharply here. ROBELL LOLA (1) makes her first outing and has drawn to advantage. Worth watching for a betting move. ROCHILL EXPRESS (7) can finish much closer after missing a cheque at this track last start.",
+                "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Casino\",\"state\":\"NSW\",\"country\":\"AUS\",\"number\":1,\"race_name\":\"Cecil Hotel Casino Maiden\",\"time\":\"2023-07-27T01:30:00Z\"}}"
+            },
+            "venue_id": "74c1fa80-012f-4da7-b9ec-0d84fe90926e",
+            "venue_name": "Casino",
+            "venue_state": "NSW",
+            "venue_country": "AUS",
+            "video": {
+                "channel": {
+                    "channel_id": "bd93ca0c-63fc-4bf3-b5b1-efcd208546dc"
+                }
+            }
+        }
+    }
+}
